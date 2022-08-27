@@ -28,3 +28,7 @@ function App() {
 }
 
 export default App;
+
+// git clone kore abr npm start korte hole
+// 1.npm i
+// 2.npm start
